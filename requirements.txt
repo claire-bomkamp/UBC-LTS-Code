@@ -1,0 +1,9 @@
+matplotlib==2.0.2
+numpy==1.13.0
+pandas==0.19.2
+seaborn==0.7.1
+bokeh==0.12.5
+descartes==1.1.0
+heatmapcluster==0.1.2
+matplotlib-venn==0.11.5
+
